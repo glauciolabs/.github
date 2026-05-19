@@ -1,12 +1,29 @@
-## Hi there 👋
+# ⚡ Senior AppSec & Ops Engineer
 
-<!--
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gcampos&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-000000?style=flat-square&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=flat-square&logo=githubactions&logoColor=white" />
+</div>
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gcampos&show_icons=true&theme=radical&hide_border=true" alt="gcampos GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcampos&theme=radical&hide_border=true" alt="gcampos GitHub Streak" />
+</div>
+
+---
+
+### ⏱️ WakaTime Metrics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 🚀 CI/CD Pipeline Status
+<!-- Adicione os badges de status do seu repositório Kubernetes aqui -->
+[![Core Pipeline](https://github.com/gcampos/core-pipeline/actions/workflows/main.yml/badge.svg)](https://github.com/gcampos/core-pipeline/actions)
