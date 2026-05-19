@@ -1,0 +1,27 @@
+version: 2
+updates:
+  # Maintain GitHub Actions dependencies
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "[Security]"
+      include: "scope"
+    labels:
+      - "security"
+      - "dependencies"
+      - "actions"
+
+  # Maintain Docker dependencies (if Dockerfile is in root)
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "[Security]"
+      include: "scope"
+    labels:
+      - "security"
+      - "dependencies"
+      - "docker"

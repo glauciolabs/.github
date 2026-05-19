@@ -1,0 +1,56 @@
+name: 🐛 Bug Report
+description: Create a report to help us improve security or operations
+title: "[BUG]: "
+labels: ["bug", "triage"]
+assignees:
+  - gcampos
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report! Please provide as much detail as possible to help us resolve the issue swiftly.
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment Matrix
+      description: Provide context about the environment where the bug occurred (OS, Cluster version, Tooling version).
+      placeholder: |
+        - Kubernetes Version:
+        - OS:
+        - Tool/CLI Version:
+    validations:
+      required: true
+  - type: checkboxes
+    id: security_check
+    attributes:
+      label: Security & Impact
+      options:
+        - label: This issue exposes sensitive data or credentials. (If yes, DO NOT submit this form. Report via security email).
+        - label: This issue blocks critical operations.
