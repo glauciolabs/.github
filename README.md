@@ -7,23 +7,23 @@ glauciolabs
 
 | 📅 Time Range | ⏳ Total Time | 📈 Daily Average | 🌟 Most Active Day |
 | :---: | :---: | :---: | :---: |
-| **Last 7 Days** | `3 hrs 2 mins` | `45 mins` | `2026-08-09 (1 hr 27 mins)` |
+| **Last 7 Days** | `4 hrs 13 mins` | `1 hr 3 mins` | `2026-08-09 (1 hr 27 mins)` |
 
 #### 🔤 Languages & 🤖 Models
 
 | Language / Model | Time / Lines | Visual Share | Share % |
 | :--- | :--- | :--- | :--- |
-| 🔤 **YAML** | 1 hr 44 mins | `███████░░░░░` | 56.7% |
-| 🔤 **Docker** | 41 mins | `███░░░░░░░░░` | 22.5% |
-| 🔤 **Bash** | 17 mins | `█░░░░░░░░░░░` | 9.6% |
-| 🔤 **Markdown** | 14 mins | `█░░░░░░░░░░░` | 7.6% |
-| 🔤 **Python** | 4 mins | `░░░░░░░░░░░░` | 2.2% |
+| 🔤 **YAML** | 2 hrs 33 mins | `███████░░░░░` | 60.8% |
+| 🔤 **Docker** | 42 mins | `██░░░░░░░░░░` | 16.7% |
+| 🔤 **Bash** | 38 mins | `██░░░░░░░░░░` | 15.1% |
+| 🔤 **Markdown** | 14 mins | `█░░░░░░░░░░░` | 5.8% |
+| 🔤 **Python** | 4 mins | `░░░░░░░░░░░░` | 1.6% |
 
 #### 🛠️ Editors, OS & Machines
 
 | Category | Top Selection | Full Breakdown |
 | :--- | :--- | :--- |
-| 🛠️ **Editors** | **VS Code** | VS Code (52.1%), Antigravity IDE (36.9%), Antigravity CLI (11.0%) |
+| 🛠️ **Editors** | **Antigravity IDE** | Antigravity IDE (52.1%), VS Code (44.4%), Antigravity CLI (3.5%) |
 | 💻 **Operating System** | **Linux** | Linux (100.0%) |
 | 🖥️ **Machines** | **fedora** | fedora (100.0%) |
 
@@ -31,9 +31,8 @@ glauciolabs
 
 | Project | Time Spent | Visual Share | Share % |
 | :--- | :--- | :--- | :--- |
-| 📁 **github-runner** | 1 hr 15 mins | `█████░░░░░░░` | 40.9% |
-| 📁 **core-pipeline** | 1 hr 1 min | `████░░░░░░░░` | 33.4% |
-| 📁 **github** | 37 mins | `██░░░░░░░░░░` | 20.2% |
-| 📁 **gcampos** | 10 mins | `█░░░░░░░░░░░` | 5.5% |
+| 📁 **github-runner** | 2 hrs 34 mins | `███████░░░░░` | 61.0% |
+| 📁 **core-pipeline** | 1 hr 1 min | `███░░░░░░░░░` | 24.3% |
+| 📁 **github** | 37 mins | `██░░░░░░░░░░` | 14.7% |
 
 <!--END_SECTION:waka-->
