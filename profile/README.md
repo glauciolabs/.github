@@ -35,23 +35,23 @@
 
 | 📅 Time Range | ⏳ Total Time | 📈 Daily Average | 🌟 Most Active Day |
 | :---: | :---: | :---: | :---: |
-| **Last 7 Days** | `3 hrs 6 mins` | `1 hr 2 mins` | `2026-08-09 (1 hr 27 mins)` |
+| **Last 7 Days** | `4 hrs 38 mins` | `1 hr 32 mins` | `2026-08-16 (3 hrs 8 mins)` |
 
 #### 🔤 Languages & 🤖 Models
 
 | Language / Model | Time / Lines | Visual Share | Share % |
 | :--- | :--- | :--- | :--- |
-| 🔤 **YAML** | 2 hrs 7 mins | `████████░░░░` | 68.1% |
-| 🔤 **Bash** | 30 mins | `██░░░░░░░░░░` | 16.5% |
-| 🔤 **Markdown** | 14 mins | `█░░░░░░░░░░░` | 7.8% |
-| 🔤 **Docker** | 9 mins | `█░░░░░░░░░░░` | 5.2% |
-| 🔤 **Python** | 4 mins | `░░░░░░░░░░░░` | 2.1% |
+| 🔤 **YAML** | 2 hrs 58 mins | `███████░░░░░` | 61.7% |
+| 🔤 **Bash** | 1 hr 27 mins | `████░░░░░░░░` | 30.2% |
+| 🔤 **Other** | 12 mins | `░░░░░░░░░░░░` | 4.2% |
+| 🔤 **Lua** | 9 mins | `░░░░░░░░░░░░` | 3.1% |
+| 🔤 **Docker** | 1 min | `░░░░░░░░░░░░` | 0.6% |
 
 #### 🛠️ Editors, OS & Machines
 
 | Category | Top Selection | Full Breakdown |
 | :--- | :--- | :--- |
-| 🛠️ **Editors** | **Antigravity IDE** | Antigravity IDE (54.2%), VS Code (45.8%) |
+| 🛠️ **Editors** | **Antigravity IDE** | Antigravity IDE (74.0%), VS Code (17.0%), Antigravity CLI (8.9%) |
 | 💻 **Operating System** | **Linux** | Linux (100.0%) |
 | 🖥️ **Machines** | **fedora** | fedora (100.0%) |
 
@@ -59,9 +59,10 @@
 
 | Project | Time Spent | Visual Share | Share % |
 | :--- | :--- | :--- | :--- |
-| 📁 **github-runner** | 2 hrs 14 mins | `█████████░░░` | 71.7% |
-| 📁 **github** | 37 mins | `██░░░░░░░░░░` | 19.9% |
-| 📁 **core-pipeline** | 15 mins | `█░░░░░░░░░░░` | 8.4% |
+| 📁 **core-pipeline** | 2 hrs 48 mins | `███████░░░░░` | 58.0% |
+| 📁 **github-runner** | 1 hr 40 mins | `████░░░░░░░░` | 34.8% |
+| 📁 **gcampos** | 19 mins | `█░░░░░░░░░░░` | 6.7% |
+| 📁 **antigravity-ide** | 1 min | `░░░░░░░░░░░░` | 0.5% |
 
 <!--END_SECTION:waka-->
 
