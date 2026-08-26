@@ -7,14 +7,14 @@ glauciolabs
 
 | 📅 Time Range | ⏳ Total Time | 📈 Daily Average | 🌟 Most Active Day |
 | :---: | :---: | :---: | :---: |
-| **Last 7 Days** | `4 hrs 5 mins` | `2 hrs 2 mins` | `2026-08-17 (2 hrs 27 mins)` |
+| **Last 7 Days** | `1 hr 39 mins` | `1 hr 39 mins` | `2026-08-19 (1 hr 39 mins)` |
 
 #### 🔤 Languages & 🤖 Models
 
 | Language / Model | Time / Lines | Visual Share | Share % |
 | :--- | :--- | :--- | :--- |
-| 🔤 **YAML** | 2 hrs 3 mins | `██████░░░░░░` | 50.2% |
-| 🔤 **Bash** | 2 hrs 2 mins | `██████░░░░░░` | 49.8% |
+| 🔤 **YAML** | 1 hr 20 mins | `██████████░░` | 80.1% |
+| 🔤 **Bash** | 19 mins | `██░░░░░░░░░░` | 19.9% |
 
 #### 🛠️ Editors, OS & Machines
 
@@ -28,6 +28,6 @@ glauciolabs
 
 | Project | Time Spent | Visual Share | Share % |
 | :--- | :--- | :--- | :--- |
-| 📁 **core-pipeline** | 4 hrs 5 mins | `████████████` | 100.0% |
+| 📁 **core-pipeline** | 1 hr 39 mins | `████████████` | 100.0% |
 
 <!--END_SECTION:waka-->
